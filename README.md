@@ -1,16 +1,7 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com
-      ?font=JetBrains+Mono
-      &size=18
-      &pause=1200
-      &color=58A6FF
-      &center=true
-      &vCenter=true
-      &width=540
-      &lines=backend+%26+infrastructure;automation+systems;boring%2C+reliable+software"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&width=1100&pause=1600&color=58A6FF&center=true&vCenter=true&lines=Hi%2C+I%E2%80%99m+Naufal+—+Web+Developer;backend+%26+infrastructure+focused&pause=1800&cursor=_&typingSpeed=80" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Astro-161B22?style=for-the-badge&logo=astro&logoColor=F0883E" />
@@ -21,8 +12,7 @@
 
 <p align="center">
   <a href="https://naufalhilmiaji.github.io">
-    <img src="https://img.shields.io/badge/portfolio-naufal.hilmiaji.github.io-161B22?style=for-the-badge&logo=githubpages&labelColor=161B22&color=1E3B57
-    " />
+    <img src="https://img.shields.io/badge/portfolio-naufal.hilmiaji.github.io-161B22?style=for-the-badge&logo=githubpages&labelColor=161B22&color=1E3B57" />
   </a>
 </p>
 
