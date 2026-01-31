@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&width=1100&pause=1600&color=58A6FF&center=true&vCenter=true&lines=Hi%2C+I%E2%80%99m+Naufal+—+Web+Developer;backend+%26+infrastructure+focused&pause=1800&cursor=_&typingSpeed=80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&width=1100&pause=1800&color=58A6FF&center=true&vCenter=true&cursor=_&typingSpeed=80&lines=Hi%2C+I%27m+Naufal+-+Web+Developer&lines=backend+%26+infrastructure+focused" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Astro-161B22?style=for-the-badge&logo=astro&logoColor=F0883E" />
