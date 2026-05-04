@@ -139,12 +139,6 @@ $ cat stack.json | jq
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naufalhilmiaji&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&rank_icon=github)](https://github.com/naufalhilmiaji)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhilmiaji&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)](https://github.com/naufalhilmiaji)
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=naufalhilmiaji&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF)](https://github.com/naufalhilmiaji)
 
 </div>
