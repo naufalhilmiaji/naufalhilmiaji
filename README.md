@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&width=640&height=56&lines=naufal+hilmi+aji;backend+%26+infrastructure+developer;building+systems+that+run+in+production" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&width=640&height=56&lines=naufal+hilmiaji;backend+%26+infrastructure+developer;building+systems+that+run+in+production" alt="Typing" />
 
 <br/>
 
